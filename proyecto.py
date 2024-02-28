@@ -1,3 +1,3 @@
-print('Proyecto inicial')
-print('Funcionalidad A')
-print('Funcionalidad B')
+print('Proyecto iniciall')
+print('Funcionalidad AA')
+print('Funcionalidad BB')
